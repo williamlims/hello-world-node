@@ -1,0 +1,22 @@
+{
+  "name": "hello-world-node",
+  "version": "1.0.0",
+  "description": "Hello World Nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/williamlims/hello-world-node.git"
+  },
+  "author": "William Lima",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/williamlims/hello-world-node/issues"
+  },
+  "homepage": "https://github.com/williamlims/hello-world-node#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
